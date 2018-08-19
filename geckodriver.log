@@ -1,0 +1,90 @@
+1534673654780	geckodriver	INFO	geckodriver 0.19.0
+1534673654800	geckodriver	INFO	Listening on 127.0.0.1:25369
+1534673657839	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\WANGME~1\\AppData\\Local\\Temp\\rust_mozprofile.HzeLgNGBYPM5"
+1534673658940	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1534673660645	Marionette	INFO	Enabled via --marionette
+1534673665452	Marionette	INFO	Listening on port 25379
+1534673665522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534673665607	Marionette	DEBUG	Register listener.js for window 4294967297
+1534673665703	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534673666326	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534673666326	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1534673672420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1534673675249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.icourse163.org/category/computer"
+1534673676325	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.icourse163.org/category/computer"
+1534673679753	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=2"
+1534673680077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673682908	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=3"
+1534673683144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673686040	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=4"
+1534673686278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673689177	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=5"
+1534673689429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673692307	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=6"
+1534673692541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673699259	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=7"
+1534673699522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673702381	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=8"
+1534673702614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673705494	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=9"
+1534673705721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673708614	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=10"
+1534673708879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534673711710	Marionette	INFO	New connections will no longer be accepted
+[Child 11808] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11808] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+vent "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=9"
+1534668534456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534668537230	Marionette	DEBUG	Received DOM event "popstate" for "https://www.icourse163.org/category/computer#?type=30&orderBy=0&pageIndex=10"
+1534668537504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1534668540317	Marionette	INFO	New connections will no longer be accepted
+[Child 3048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+"http://www.bianceng.cn/Programming/cplus/index7.htm"
+1534663745969	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index7.htm"
+1534663751638	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index7.htm"
+1534663751841	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index7.htm"
+1534663751842	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index7.htm"
+1534663752007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index8.htm"
+1534663752053	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index8.htm"
+1534663757638	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index8.htm"
+1534663757841	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index8.htm"
+1534663757841	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index8.htm"
+1534663757971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index9.htm"
+1534663758044	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index9.htm"
+1534663763762	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index9.htm"
+1534663763967	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index9.htm"
+1534663763968	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index9.htm"
+1534663764104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index10.htm"
+1534663764123	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index10.htm"
+1534663770249	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index10.htm"
+1534663770678	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index10.htm"
+1534663770680	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index10.htm"
+1534663770766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index11.htm"
+1534663770781	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index11.htm"
+1534663777338	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index11.htm"
+1534663777577	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index11.htm"
+1534663777578	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index11.htm"
+1534663777698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index12.htm"
+1534663777711	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index12.htm"
+1534663783873	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index12.htm"
+1534663784071	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index12.htm"
+1534663784072	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index12.htm"
+1534663784182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index13.htm"
+1534663784196	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index13.htm"
+1534663790597	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index13.htm"
+1534663790793	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index13.htm"
+1534663790793	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index13.htm"
+1534663790864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index14.htm"
+1534663790882	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index14.htm"
+1534663796924	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index14.htm"
+1534663797121	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index14.htm"
+1534663797122	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index14.htm"
+1534663797283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index15.htm"
+1534663797341	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index15.htm"
+1534663803571	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.bianceng.cn/Programming/cplus/index15.htm"
+1534663803771	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.bianceng.cn/Programming/cplus/index15.htm"
+1534663803771	Marionette	DEBUG	Received DOM event "unload" for "http://www.bianceng.cn/Programming/cplus/index15.htm"
+1534663803892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bianceng.cn/Programming/cplus/index16.htm"
+1534663803896	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bianceng.cn/Programming/cplus/index16.htm"
